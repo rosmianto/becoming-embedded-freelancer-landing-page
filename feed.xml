@@ -3,21 +3,21 @@
     <title>Becoming Embedded Freelancer</title>
     <link href="https://freelancer.rosmianto.com/feed.xml" rel="self" />
     <link href="https://freelancer.rosmianto.com" />
-    <updated>2024-08-07T13:20:22+07:00</updated>
+    <updated>2024-08-07T13:58:51+07:00</updated>
     <author>
         <name>rosmianto</name>
     </author>
     <id>https://freelancer.rosmianto.com</id>
 
     <entry>
-        <title>Unlock multiple streams of income as an embedded engineer, by becoming an embedded freelancer.</title>
+        <title>Unlock multiple income streams as an embedded engineer, by becoming an embedded freelancer.</title>
         <author>
             <name>rosmianto</name>
         </author>
         <link href="https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html"/>
         <id>https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html</id>
 
-        <updated>2024-08-07T13:20:22+07:00</updated>
+        <updated>2024-08-07T13:58:51+07:00</updated>
             <summary>
                 <![CDATA[
                     Learn how to earn more money (even more than your main job) working on freelance projects using a proven path&hellip;
@@ -33,16 +33,32 @@
 <p>But promotion isn't straighforward, you can't work twice as hard and expect to be promoted next year. That's not how it works. Promotion is also subject to <em><strong>execs' approval</strong></em>, subject to <em><strong>company financial</strong></em> and <em><strong>political situation</strong></em>. Hell, it's even subject to <em><strong>competition from your peers</strong></em> (they also want to be promoted right?).</p>
 <p>Even when you get promoted, how much salary hike you'll get?</p>
 <p>Not even 10% (mine was worse at 5%). That's excluding yearly inflation (around 3% in my country).</p>
-<p>All that for a inflated title and more pressure and stress at work? <strong>No thanks</strong>.</p>
-<p>Fine, you might be tempted to switch company. Now, the question is: can you find a significantly better company than yours currently? And can you actually pass their bar?</p>
+<p>All that for an inflated title and more pressure and stress at work? <strong>No thanks</strong>.</p>
+<p>Fine, you might be tempted to switch company. Now, the question is: can you find a significantly better company than yours? And can you actually pass their bar?</p>
 <p>Why significantly better? Because, trust me, in many cases, switching company is just trading off one thing with another. Take my case for example, I was working at this company: paid good enough, work from home, close from my house, good friends, no politics.</p>
-<p>If I want to make more money by switching company, that means I have to find another company with the good things above, plus with better pay. And let me tell you, it's hard. And not straightforward. Most times I need to sacrifice 3 things just to get 1 thing (better pay).</p>
+<p>If I want to make more money by switching company, that means I have to find another company with the good things above, plus with better pay. And let me tell you, it's hard. And not straightforward. Most of the times I need to sacrifice 3 things just to get 1 thing (better pay).</p>
 <p>Also, no thanks.</p>
 <p>I have tried promotion and switching stuff, and honestly those was only my <em>wants</em>, not my <em>needs</em>. What I truly need is just some income boosts.</p>
 <p>Enter: <strong>freelancing world</strong>.</p>
-<p>It's like getting paid by multiple bosses.</p>
+<p>Let's say you have years of experience in corporate world doing embedded stuff, what if I told you that people around the world are <strong>willing to pay you money</strong> to give them result exactly like you did at work?</p>
+<p>It's like getting paid by multiple bosses to do the same thing.</p>
+<p>Your firmware design skills at work? Someone from Korea wants that.</p>
+<p>Or maybe you have skill to debug CAN bus system? Someone from Germany is desperate to find you, ready to spend $500 to save weeks of unnecessary troubleshooting sessions.</p>
+<p>I knew that's interesting, that's why I tried freelancing from Upwork (for a $12.5 task) to LinkedIn (for $2950 per project). I have to admit that the journey wasn't easy, mostly because I had to figure it out from zero. I've spent too many time doing trial &amp; error since 2019.</p>
+<p>As I grow my freelance business, I quickly realized that we need more and more freelancers especially in embedded systems industry. Why? Isn't that increasing my competition?</p>
+<p>Well, that's because my focus is low-power design and firmware development. And the clients wants more freelancers who know:</p>
+<ul>
+<li>Medical embedded systems</li>
+<li>Automotive (CAN, LIN, Hard real-time RTOS)</li>
+<li>Regulation and standards</li>
+<li>Industrial IoT</li>
+<li>How to write firmware for European Space Agency rocket payload (yes, someone asked me that).</li>
+<li>etc.</li>
+</ul>
+<p>I simply didn't have time and energy to cater all of them.</p>
+<p>That's why I decided to put together what I know about freelancing, the path, the caveats, the clients hunting.</p>
+<h2>What I've put together</h2>
 <p> </p>
-<p>I didn't come from money, I had to support myself in school, I have I crave for financial freedom</p>
 <p>In this book, I want to guide you on how to be a freelancer as an embedded engineer. I will share with you my proven method of doing freelance. I will also share with you my framework you can steal.<br><br>This book isn’t a generic book, I don’t like reading long and tedious books, because they’re boring.<br><br>So in this book, I try my hardest to pack all the value I can share into this book, as compact as possible, without much fluffs and introduction bullshit.<br><br>In other words, I designed this book precisely to be to-the-point, zero bullshit, meat-only content, so you can extract my knowledge in this book as fast as possible. And thus, make money as a freelancer as soon as possible.</p>
 <p><br>Ready?</p>
             ]]>
