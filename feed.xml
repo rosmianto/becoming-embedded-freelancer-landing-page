@@ -3,7 +3,7 @@
     <title>Becoming Embedded Freelancer</title>
     <link href="https://freelancer.rosmianto.com/feed.xml" rel="self" />
     <link href="https://freelancer.rosmianto.com" />
-    <updated>2024-08-07T15:56:56+07:00</updated>
+    <updated>2024-08-07T18:36:33+07:00</updated>
     <author>
         <name>rosmianto</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html"/>
         <id>https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html</id>
 
-        <updated>2024-08-07T15:56:56+07:00</updated>
+        <updated>2024-08-07T18:36:33+07:00</updated>
             <summary>
                 <![CDATA[
                     Learn how to earn more money (even more than your main job) working on freelance projects using a proven path&hellip;
@@ -26,7 +26,8 @@
         <content type="html">
             <![CDATA[
                 <p>Learn how to earn more money (even more than your main job) working on freelance projects using a proven path explained from an embedded engineer's point-of-view.</p>
-<p><button type="button">Get two free chapters</button> <button type="button">Buy now</button></p>
+<p><a href="#" class="btn">Get two free chapters</a> <a href="#buy-anchor" class="btn btn--white">Buy now</a></p>
+<p> </p>
 <h3 class="align-center">"I want to be a freelancer working on embedded projects, but I don't know how."</h3>
 <p>Hi! I'm Rosmianto, an embedded systems engineer who used to be stuck with a fragile single stream of income.</p>
 <p>Let me first ask you a question: what is the most generic way to make more money as an embedded engineer? Two: <em>promotion</em> or <em>switching company</em>.</p>
@@ -56,7 +57,7 @@
 <li>etc.</li>
 </ul>
 <p>I simply didn't have time and energy and expertise to cater all of them.</p>
-<p>That's why I decided to put together what I know about freelancing, the path, the caveats, the clients hunting. So you can try freelancing and handle those desperate clients. Do you know this proverb?</p>
+<p>That's why I decided to put together what I know about freelancing, the path, the caveats, how to get clients. So you can try freelancing and handle those clients. Do you know this proverb?</p>
 <p class="entry-title"><em>Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime.</em></p>
 <p>What I want is to "Teach a Man to Fish". Simple as that.</p>
 <h2>What I've put together</h2>
@@ -81,7 +82,7 @@
 <h2>Project Cost Breakdown Example 💵</h2>
 <p>See how I price a freelance project, down to each task, each time taken, each charged price, to total development cost.</p>
 <p>[insert spreadsheet cost breakdown with drop shadows]</p>
-<h1 class="align-center">Get Becoming Embedded Freelancer Today.</h1>
+<h1 id="buy-anchor" class="align-center">Get Becoming Embedded Freelancer Today.</h1>
 <p class="align-center">Learn how to earn more money (even more than your main job) working on freelance projects using a proven path explained from an embedded engineer's point-of-view.</p>
 <table>
 <tbody>
