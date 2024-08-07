@@ -3,7 +3,7 @@
     <title>Becoming Embedded Freelancer</title>
     <link href="https://freelancer.rosmianto.com/feed.xml" rel="self" />
     <link href="https://freelancer.rosmianto.com" />
-    <updated>2024-08-07T13:58:51+07:00</updated>
+    <updated>2024-08-07T14:18:54+07:00</updated>
     <author>
         <name>rosmianto</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html"/>
         <id>https://freelancer.rosmianto.com/i-want-to-be-a-freelancer-working-on-embedded-projects-but-i-dont-know-how.html</id>
 
-        <updated>2024-08-07T13:58:51+07:00</updated>
+        <updated>2024-08-07T14:18:54+07:00</updated>
             <summary>
                 <![CDATA[
                     Learn how to earn more money (even more than your main job) working on freelance projects using a proven path&hellip;
@@ -45,7 +45,7 @@
 <p>Your firmware design skills at work? Someone from Korea wants that.</p>
 <p>Or maybe you have skill to debug CAN bus system? Someone from Germany is desperate to find you, ready to spend $500 to save weeks of unnecessary troubleshooting sessions.</p>
 <p>I knew that's interesting, that's why I tried freelancing from Upwork (for a $12.5 task) to LinkedIn (for $2950 per project). I have to admit that the journey wasn't easy, mostly because I had to figure it out from zero. I've spent too many time doing trial &amp; error since 2019.</p>
-<p>As I grow my freelance business, I quickly realized that we need more and more freelancers especially in embedded systems industry. Why? Isn't that increasing my competition?</p>
+<p>As I grow my freelance business, I quickly realized that we need more and more freelancers especially in embedded systems industry. Why? Wouldn't that increase my competition?</p>
 <p>Well, that's because my focus is low-power design and firmware development. And the clients wants more freelancers who know:</p>
 <ul>
 <li>Medical embedded systems</li>
@@ -56,8 +56,20 @@
 <li>etc.</li>
 </ul>
 <p>I simply didn't have time and energy to cater all of them.</p>
-<p>That's why I decided to put together what I know about freelancing, the path, the caveats, the clients hunting.</p>
+<p>That's why I decided to put together what I know about freelancing, the path, the caveats, the clients hunting. So you can try freelancing and handle those desperate clients. Do you know this proverb?</p>
+<blockquote>
+<p class="entry-title">Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime.</p>
+</blockquote>
+<p>What I want is to "Teach a Man to Fish". Simple as that.</p>
 <h2>What I've put together</h2>
+<p>When I first started working on this project, my goal was pretty simple: take all of my freelancing content on LinkedIn, bundle them up into one resource, and put it out into the world.</p>
+<p>But as I work on this book, I added more and more material, it become more than just a book, but more like <strong>a complete starter kit for any embedded engineers to start freelancing</strong>. </p>
+<p>Here's what I ended up with...</p>
+<h2>The Book 📖</h2>
+<p>A compact PDF containing frameworks, tips and tricks, and my freelance stories.</p>
+<p>I deliberately designed this book to be short, because I want you to quickly finish the book and start implementing what's inside.</p>
+<p>It's just 80-ish page book, so I estimate you can finish it in a day. And start implementing tomorrow.</p>
+<p>I write the chapters to be as independent as possible, so you can read them in any order. And can be re-read as a reference.</p>
 <p> </p>
 <p>In this book, I want to guide you on how to be a freelancer as an embedded engineer. I will share with you my proven method of doing freelance. I will also share with you my framework you can steal.<br><br>This book isn’t a generic book, I don’t like reading long and tedious books, because they’re boring.<br><br>So in this book, I try my hardest to pack all the value I can share into this book, as compact as possible, without much fluffs and introduction bullshit.<br><br>In other words, I designed this book precisely to be to-the-point, zero bullshit, meat-only content, so you can extract my knowledge in this book as fast as possible. And thus, make money as a freelancer as soon as possible.</p>
 <p><br>Ready?</p>
