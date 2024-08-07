@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://freelancer.rosmianto.com/sitemap.xml
